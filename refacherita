@@ -1,0 +1,34 @@
+<html>
+
+    <head>
+        BOB ESPONJA
+    </head>
+    <body>
+        <h1>Letra</h1>
+        <img src="bob3.jpeg">
+<p>¿Estais listos chicos? <br>
+¡Sí capitán!<br>
+¡Mas fuerte!<br>
+¡Sí capitán!<br>
+Uuuuuh<br>
+<img src="bob.jpeg"><br>
+    ¡El vive en la piña debajo del mar!<br>
+¡Bob Esponja!<br>
+¡Su cuerpo amarillo absorbe sin más!<br>
+¡Bob Esponja!<br>
+¡El mejor amigo que puedes tener!<br>
+¡Bob Esponja!<br>
+¡Igual que los peces el puede flotar!<br>
+¡Bob Esponja!<br>
+    <img src="bob2.jpg"><br>
+¿Listos?<br>
+¡Bob Esponja!<br>
+¡Bob Esponja!<br>
+¡Bob Esponja!<br>
+Bob Esponja ya llegó<br>
+    <img src="fotodebob.jpg"><br>
+    <audio src="canciondebob.mp3" preload="none" controls></audio>
+<iframe src="https://open.spotify.com/embed/playlist/5fuSY8wLyoXj8BVsAR12HU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        </p>   
+    </body>
+</html>
